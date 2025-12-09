@@ -212,6 +212,14 @@
 ---
 ## GitHub Analytics
 
+
+---
+
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwin18-Offcl&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
+
 ---
 ##  ✨Soft Skills & Teaching
 <p align="center">
