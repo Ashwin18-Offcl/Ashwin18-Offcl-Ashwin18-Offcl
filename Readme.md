@@ -163,17 +163,48 @@
 
 </p>
 
+## Tools & Platforms:
 
+<p align="left">
 
+  <!-- BI / Analytics -->
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Icon-Obsolete2020Black.png" height="34" alt="Power BI" />
+  <img src="https://www.svgrepo.com/show/354427/tableau.svg"        height="34" alt="Tableau" />
+  <img src="https://github.com/Sarvandani/Data_science_logos/blob/main/excel.svg" height="34" alt="Excel" />
+  <img src="https://cdn.simpleicons.org/googlesheets/34A853"   height="34" alt="Google Sheets" />
+  <img src="https://cdn.simpleicons.org/googleanalytics/E37400" height="34" alt="Google Analytics" />
+  <img src="https://cdn.simpleicons.org/looker/4285F4"         height="34" alt="Looker" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC"          height="34" alt="Canva" />
 
+  <!-- ML / DL Frameworks -->
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00"     height="34" alt="TensorFlow" />
+  <img src="https://cdn.simpleicons.org/keras/D00000"          height="34" alt="Keras" />
+  <img src="https://cdn.simpleicons.org/apachespark/E25A1C"    height="34" alt="Spark" />
 
+  <!-- Dev / IDEs -->
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png"         height="34" alt="VS Code" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png"        height="34" alt="PyCharm" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626"        height="34" alt="Jupyter Notebook" />
+  <img src="https://github.com/Sarvandani/Data_science_logos/blob/main/RStudio_logo.svg"        height="34" alt="RStudio" />
+  <img src="https://cdn.simpleicons.org/anaconda/42B029"       height="34" alt="Anaconda Navigator" />
+  <img src="https://cdn.simpleicons.org/replit/F26207"         height="34" alt="Replit" />
 
+  <!-- DevOps / Cloud / Version Control -->
+  <img src="https://cdn.simpleicons.org/github/FFFFFF"         height="34" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/git/F05032"            height="34" alt="Git" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED"         height="34" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" height="34" alt="Azure" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png"         height="34" alt="SQLLite" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png"            height="34" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png"         height="34" alt="MongoDB" />
+ <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png"         height="34" alt="MSSQL" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png"            height="34" alt="PostgreySQL" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png"         height="34" alt="Jira" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-
+</p>
 
-
-
-
-
-
+---
+## GitHub Analytics
 
 
 ##  ✨Soft Skills & Teaching
