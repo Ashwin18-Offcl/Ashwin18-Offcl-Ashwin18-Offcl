@@ -141,6 +141,27 @@
 </p>
 
 
+## Languages:
+
+<p align="left">
+
+  <!-- Core Programming -->
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"        height="34" alt="Python" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png"             height="34" alt="C" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png"     height="34" alt="C++" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"          height="34" alt="Java" />
+  <img src="https://cdn.simpleicons.org/r/276DC3"             height="34" alt="R" />
+
+  <!-- Data & ML Core -->
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png"         height="34" alt="NumPy" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png"        height="34" alt="Pandas" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/wxwidgets.png"   height="34" alt="Matplotlib" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png"    height="34" alt="MongoDB" />
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E"   height="34" alt="Scikit-Learn" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png"       height="34" alt="Flask" />
+
+
+</p>
 
 
 
