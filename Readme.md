@@ -317,6 +317,61 @@
 
 ## 📑 Certifications – Category Index
 
+<div align="left">
+
+<table>
+  <tr>
+    <th align="left"><sub>Category</sub></th>
+    <th align="left"><sub>Category</sub></th>
+  </tr>
+
+  <!-- ROW 1 -->
+  <tr>
+    <td><sub><a href="./CCC/">CCC Certificates</a></sub></td>
+    <td><sub><a href="./CCEP%20Cyber%20security%20Certificate/">CCEP Cyber Security Certificates</a></sub></td>
+  </tr>
+
+  <!-- ROW 2 -->
+  <tr>
+    <td><sub><a href="./Certificate%20Merger/">Certificate Merger</a></sub></td>
+    <td><sub><a href="./Coursera/">Coursera Certifications</a></sub></td>
+  </tr>
+
+  <!-- ROW 3 -->
+  <tr>
+    <td><sub><a href="./Disha%20Computer%20Institute/">Disha Computer Institute</a></sub></td>
+    <td><sub><a href="./Government%20Certificates/">Government Certificates</a></sub></td>
+  </tr>
+
+  <!-- ROW 4 -->
+  <tr>
+    <td><sub><a href="./GreatlearningCertificate/">Great Learning Certificates</a></sub></td>
+    <td><sub><a href="./HCL%20Certificates/">HCL Certificates</a></sub></td>
+  </tr>
+
+  <!-- ROW 5 -->
+  <tr>
+    <td><sub><a href="./Internship%20Certificate/">Internship Certificates</a></sub></td>
+    <td><sub><a href="./Other%20Certifications/">Other Certifications</a></sub></td>
+  </tr>
+
+  <!-- ROW 6 -->
+  <tr>
+    <td><sub><a href="./Reliance/">Reliance / Jio Certificates</a></sub></td>
+    <td><sub><a href="./Skill%20India%20Certificate/">Skill India Certificates</a></sub></td>
+  </tr>
+
+  <!-- ROW 7 -->
+  <tr>
+    <td><sub><a href="./Tata%20Forage%20Certificates/">Tata Forage Certificates</a></sub></td>
+    <td><sub><a href="./Udemy/">Udemy Certificates</a></sub></td>
+  </tr>
+
+</table>
+
+</div>
+
+---
 
 
 
