@@ -317,7 +317,6 @@
 
 ## 📂 Certifications – Index
 
-## 📂 Certifications – Index (Short Link Style with Real Repo Links)
 
 <div align="left">
 
