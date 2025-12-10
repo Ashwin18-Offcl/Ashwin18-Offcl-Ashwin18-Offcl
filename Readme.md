@@ -317,6 +317,8 @@
 
 ## 📂 Certifications – Index
 
+## 📂 Certifications – Index (Short Link Style with Real Repo Links)
+
 <div align="left">
 
 <table>
@@ -390,9 +392,25 @@
     <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/Tata%20Forage%20Certificates">bit.ly/tata-cert</a></sub></td>
   </tr>
 
+  <tr>
+    <td><sub>IBM Certificates</sub></td>
+    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/IBM">bit.ly/ibm-cert</a></sub></td>
+  </tr>
+
+  <tr>
+    <td><sub>LinkedIn Certifications</sub></td>
+    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/LinkedIn">bit.ly/linkedin-cert</a></sub></td>
+  </tr>
+
+  <tr>
+    <td><sub>Microsoft Certifications</sub></td>
+    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/Microsoft">bit.ly/ms-cert</a></sub></td>
+  </tr>
+
 </table>
 
 </div>
+
 
 ---
 
